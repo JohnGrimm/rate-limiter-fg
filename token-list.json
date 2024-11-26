@@ -1,0 +1,17 @@
+[
+    {
+        "token": "01936972-68a4-7253-bf19-91a63080cc39",
+        "expiresIn": 10,
+        "qtdRequests": 15
+    },
+    {
+        "token": "01936972-9146-72d3-9d4e-71a100b87a73",
+        "expiresIn": 30,
+        "qtdRequests": 25
+    },
+    {
+        "token": "01936972-b297-7378-8e3e-4d55dd40ea71",
+        "expiresIn": 60,
+        "qtdRequests": 55
+    }
+]

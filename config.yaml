@@ -1,0 +1,7 @@
+redis_host: redis
+redis_port: 6379
+redis_password: ""
+redis_db: 0
+default_rate_limit: 10
+default_expiry: 5
+default_time_blocked: 10
